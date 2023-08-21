@@ -1,0 +1,1 @@
+This project contains scripts for automating basic selenium elements
