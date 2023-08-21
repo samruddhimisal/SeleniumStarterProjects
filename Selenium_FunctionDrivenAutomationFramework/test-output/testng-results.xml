@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="7" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="89138" started-at="2023-02-02T11:18:17Z" finished-at="2023-02-02T11:19:46Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="89138" started-at="2023-02-02T11:18:17Z" finished-at="2023-02-02T11:19:46Z">
+      <class name="Tests.AmazonTest3MensWatches">
+        <test-method status="PASS" signature="testcase3()[pri:0, instance:Tests.AmazonTest3MensWatches@49993335]" name="testcase3" duration-ms="37723" started-at="2023-02-02T11:19:09Z" finished-at="2023-02-02T11:19:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+      </class> <!-- Tests.AmazonTest3MensWatches -->
+      <class name="Tests.AmazonTest2Home">
+        <test-method status="PASS" signature="testcase2()[pri:0, instance:Tests.AmazonTest2Home@5025a98f]" name="testcase2" duration-ms="35693" started-at="2023-02-02T11:18:33Z" finished-at="2023-02-02T11:19:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+      </class> <!-- Tests.AmazonTest2Home -->
+      <class name="Tests.AmazonTest1Computer">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:Tests.AmazonTest1Computer@2d928643]" name="openBrowser" is-config="true" duration-ms="6299" started-at="2023-02-02T11:18:11Z" finished-at="2023-02-02T11:18:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:Tests.AmazonTest1Computer@2d928643]" name="testcase1" duration-ms="15683" started-at="2023-02-02T11:18:17Z" finished-at="2023-02-02T11:18:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Tests.AmazonTest1Computer@2d928643]" name="closeBrowser" is-config="true" duration-ms="1420" started-at="2023-02-02T11:19:46Z" finished-at="2023-02-02T11:19:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Tests.AmazonTest1Computer -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
